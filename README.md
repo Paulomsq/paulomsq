@@ -1,7 +1,7 @@
 ## Oie, eu sou Paulo Marcos, estudante de programação e tecnologia!
 
-- 🔭 Atualmente trabalho como analista de projetos. 
-- 🌱 Estudando Javascript e Typescript.
+- 🔭 Atualmente trabalho como Analista de Produtos. 
+- 🌱 Estudando Javascript.
 
 <div align="center" style="display:flex">
   <a href="https://github.com/paulomsq">
