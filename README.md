@@ -1,7 +1,7 @@
 ## Oie, eu sou Paulo Marcos, estudante de programação e tecnologia!
 
-- 🔭 Atualmente trabalho como Analista de Projetos. 
-- 🌱 Estudando JavaScript/TypeScript/Angular.
+- 🔭 Atualmente trabalho como Analista de Qualidade com foco em Automação de Testes e Processos
+- 🌱 Estudando Python | Java | Robot Framework | Cypress | Selenium
 
 <div align="center" style="display:flex">
   <a href="https://github.com/paulomsq">
